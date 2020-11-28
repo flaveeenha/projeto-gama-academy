@@ -1,0 +1,124 @@
+ /* *{background: rgb(119, 116, 116);} */
+*{margin: 0px; padding: 0px;}
+
+
+#container{
+width: 980px; 
+min-height: 960px;
+border-radius: 3px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+margin-bottom: 10px;
+background: rgb(184, 167, 167);
+}
+
+#h4{
+    color: rgb(8, 7, 7);
+}
+
+#h2{
+    color: rgb(8, 7, 7);
+}
+
+#banner{
+    height: 150px;
+    border-radius: 3px;
+    background: rgb(185, 38, 38);
+    overflow:hidden;
+}
+
+#menu{
+    height: 50px;
+    background: rgb(142, 156, 192);
+    
+   
+}
+#menu li a:hover, #menu li a:active { 
+        /*background-color : rgb(151, 72, 230);*/
+        border-top: 5px solid rgb(4, 25, 121);
+        }
+
+#menu li a,  #menu li a:hover, #menu li a:active{ 
+            display: block;
+            text-decoration: none; 
+            color: #070607;
+            text-align: center;
+            font-weight: bold;
+            font-size: 17px;
+            font-family: arial;
+            
+            
+}
+
+#bloco1{
+    width: 30%;
+    height: 50%;
+    /*border:1px solid gray; */
+    border-radius: 3px; 
+    float:left;
+    margin: 12px 12px 12px 12px;
+}
+
+#bloco2{
+    width: 30%;
+    height: 50%;
+     /*border:1px solid gray; */
+    border-radius: 3px; 
+    float:left;
+    margin: 12px 12px 12px 12px;
+    
+}
+
+#bloco3{
+    width: 30%;
+    height: 50%;
+      /*border:1px solid gray; */
+    border-radius: 3px; 
+    float:left;
+    margin: 12px 12px 12px 12px;
+}
+
+#bloco4{
+    width: 30%;
+    height: 50%;
+      /*border:1px solid gray; */
+    border-radius: 3px; 
+    float:left;
+    margin: 12px 12px 12px 12px;
+}
+
+#bloco5{
+    width: 30%;
+    height: 50%;
+      /*border:1px solid gray; */
+    border-radius: 3px; 
+    float:left;
+    margin: 12px 12px 12px 12px;
+}
+
+#bloco6{
+    width: 30%;
+    height: 50%;
+      /*border:1px solid gray; */
+    border-radius: 3px; 
+    float:left;
+    margin: 12px 12px 12px 12px;
+}
+#menu li{
+    display: flex;
+    float:left;
+    margin: 13px 90px 0px 90px;
+}
+
+
+#corpo{
+    min-height: 700px;
+    width: 980px;
+    background: rgb(248, 248, 246);
+}
+#rodape{
+    height: 80px;
+    background: rgb(142, 156, 192);
+    border-radius: 3px;
+}
