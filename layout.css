@@ -13,12 +13,17 @@ margin-bottom: 10px;
 background: rgb(184, 167, 167);
 }
 
-#h4{
-    color: rgb(8, 7, 7);
-}
+/*p
+{text-align: right;
+color: rgb(219, 97, 27);} */
 
 #h2{
-    color: rgb(8, 7, 7);
+    color: rgb(2, 2, 2);
+   
+}
+
+#h4{
+    color: rgb(51, 136, 175);
 }
 
 #banner{
